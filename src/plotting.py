@@ -7,11 +7,11 @@ from mpl_toolkits.axes_grid1 import make_axes_locatable
 from matplotlib import cm, colorbar
 from matplotlib.lines import Line2D
 
-feature_names = ['Speed',
-                 'Longitudinal acceleration',
-                 'Lateral acceleration', 'Steering angle',
-                 'Yaw angle', 'Yaw rate',
-                 'Brake pedal', 'Accelerator pedal', 'Lateral distance'
+feature_names = ['Feature 1',
+                 'Feature 2',
+                 'Feature 3', 'Feature 4',
+                 'Feature 5', 'Feature 6',
+                 'Feature 7', 'Feature 8', 'Feature 9'
                  ]
 
 color_list = ['b',
