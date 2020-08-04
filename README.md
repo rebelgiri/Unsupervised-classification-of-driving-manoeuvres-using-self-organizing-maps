@@ -27,10 +27,11 @@ It is a concrete representation of major clusters identified after applying the 
 
 It is possible to visualize the tree representing the hierarchical merging of clusters as a dendrogram. The dendrogram is a type of tree diagram showing hierarchical clustering. It represents relationships between similar sets of samples. The vertical axis of the dendrogram represents the distance between clusters. The horizontal axis represents the samples and clusters.
 
-## Clustering of validation data set
+## Validation
+### Clustering of driving manoeuvres
 ![alt text](https://github.com/rebelgiri/Unsupervised-classification-of-driving-manoeuvres-using-self-organizing-maps/blob/master/results/Hexagonal%20Map%20Unseen%20Data.png)
 
 
-## Classification of driving manoeuvres
+### Classification of driving manoeuvres
 ![alt text](https://github.com/rebelgiri/Unsupervised-classification-of-driving-manoeuvres-using-self-organizing-maps/blob/master/results/Classification_of_driving_manoeuvres.png)
 
