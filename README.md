@@ -16,9 +16,9 @@ between the nodes signifies that the samples are close to each other in the inpu
 be a helpful presentation when one tries to find clusters in the input data without having any a priori information about the clusters. The colour scale beside the distance
 map describes the distance between nodes.
 
-## Cluster map
+## SOM clustering
 ![alt text](https://github.com/rebelgiri/Unsupervised-classification-of-driving-manoeuvres-using-self-organizing-maps/blob/master/results/Hexagonal%20Map%20Training%20Data.png)
-The cluster map is a concrete representation of clusters identified after applying the k-means clustering algorithm over the SOM.
+It is a concrete representation of major clusters identified after applying the k-means clustering algorithm over the SOM.
 
 ## Hierarchical clustering
 
@@ -27,5 +27,10 @@ The cluster map is a concrete representation of clusters identified after applyi
 
 It is possible to visualize the tree representing the hierarchical merging of clusters as a dendrogram. The dendrogram is a type of tree diagram showing hierarchical clustering. It represents relationships between similar sets of samples. The vertical axis of the dendrogram represents the distance between clusters. The horizontal axis represents the samples and clusters.
 
-## Classification of validation data set
+## Clustering of validation data set
 ![alt text](https://github.com/rebelgiri/Unsupervised-classification-of-driving-manoeuvres-using-self-organizing-maps/blob/master/results/Hexagonal%20Map%20Unseen%20Data.png)
+
+
+## Classification of driving manoeuvres
+![alt text](https://github.com/rebelgiri/Unsupervised-classification-of-driving-manoeuvres-using-self-organizing-maps/blob/master/results/Classification_of_driving_manoeuvres.png)
+
